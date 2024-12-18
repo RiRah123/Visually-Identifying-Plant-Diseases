@@ -1,7 +1,5 @@
 # Visually Identifying Plant Diseases 
 
-[Link To Video Presentation of Proposal](https://www.youtube.com/watch?v=reXGkxFaVuI)
-
 [Link to Video Presentation of Final](https://youtu.be/o2ri5hGsf4w)
 
 <table>
@@ -282,101 +280,6 @@ Apart from this, looking at the performance between the t-SNE/HDBSCAN and the K-
 
 Finally, considering the overall future direction of our project, we believe that improving our integration of the supervised and unsupervised methods could offer more robust solutions. For instance, we could integrate our MLP approach with feature insights that were derived from unsupervised clustering to refine the model’s handling of rare disease manifestations. Additionally, exploring other methods that combine predictions from multiple models could probably be a good way for us to balance the strengths and mitigate the weaknesses of each approach that we mentioned earlier. This strategy would allow for more accurate disease identification, allowing not only us but agricultural workers to have access to better decision-making tools.
  
-## Gantt Chart
-
-Here is the Excel Sheet for our Gantt Chart:
-
-<a href="CS7641_F24_G28_Gantt_Chart.xlsx" download="CS7641_F24_G28_Gantt_Chart.xlsx">CS7641_F24_G28_Gantt_Chart.xlsx</a>
-
-## Contribution Table
-
-### Final
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Report Contributions</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Kunal Daga</td>
-      <td>Model development, fine-tuning, metrics</td>
-    </tr>
-    <tr>
-      <td>Adithya Patil</td>
-      <td>Final model evaluations, report, video recording</td>
-    </tr>
-    <tr>
-      <td>Rian Rahman</td>
-      <td>Final model evaluations, report, video recording</td>
-    </tr>
-    <tr>
-      <td>Arsh Singhal</td>
-      <td>Model development, fine-tuning, metrics</td>
-    </tr>
-  </tbody>
-</table>
-
-### Midpoint
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Midpoint Contributions</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Kunal Daga</td>
-      <td>Model evaluation and midpoint explanations</td>
-    </tr>
-    <tr>
-      <td>Adithya Patil</td>
-      <td>Preprocessing set-up and model evaluation</td>
-    </tr>
-    <tr>
-      <td>Rian Rahman</td>
-      <td>Midpoint explanations and final submission</td>
-    </tr>
-    <tr>
-      <td>Arsh Singhal</td>
-      <td>Pre-processing and model code</td>
-    </tr>
-  </tbody>
-</table>
-
-### Proposal
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Proposal Contributions</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Kunal Daga</td>
-      <td>Video Recording, Power Point Slides for Video Presentation</td>
-    </tr>
-    <tr>
-      <td>Adithya Patil</td>
-      <td>Introduction & Background, Problem Definition, GitHub Page</td>
-    </tr>
-    <tr>
-      <td>Rian Rahman</td>
-      <td>Gantt Chart & Contribution Table, Source & Reference Material, GitHub Page</td>
-    </tr>
-    <tr>
-      <td>Arsh Singhal</td>
-      <td>Methods, Potential Results & Discussion, GitHub Page</td>
-    </tr>
-  </tbody>
-</table>
-
 ## References
 
 [1] P. Mills et al., “Integrating natural and social science perspectives on plant disease risk, management and policy formulation,” Philosophical Transactions of the Royal Society B: Biological Sciences, vol. 366, no. 1573, pp. 2035–2044, Jul. 2011, doi: https://doi.org/10.1098/rstb.2010.0411.
