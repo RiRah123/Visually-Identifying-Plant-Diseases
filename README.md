@@ -1,6 +1,4 @@
-# Visually Identifying Plant Diseases (CS7641_F24_G28)
-
-Kunal Daga, Adithya Patil, Rian Rahman, Arsh Singhal
+# Visually Identifying Plant Diseases 
 
 [Link To Video Presentation of Proposal](https://www.youtube.com/watch?v=reXGkxFaVuI)
 
